@@ -43,26 +43,6 @@ I'm `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` guy
 </div>
 </details>
 <details>
-  <summary><b>Gaming links</b></summary>
-
-<div align="center">
-<a href="https://steamcommunity.com/id/mantekillah" target="_blank"><img alt="BLZ-Steam" src="https://img.shields.io/static/v1?label=&message=mantekillah&logo=Steam&logoColor=ffffff&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-BattleNet" src="https://img.shields.io/static/v1?label=&message=CatalanRage%232989&logo=BattleDotNet&logoColor=148eff&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-EpicGames" src="https://img.shields.io/static/v1?label=&message=mantekilleur&logo=EpicGames&logoColor=ffffff&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
-&nbsp;&nbsp;
-<a href="https://twitch.tv/mantekiller" target="_blank"><img alt="BLZ-Twitch" src="https://img.shields.io/static/v1?label=&message=mantekiller&logo=Twitch&logoColor=9146ff&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
-</div>
-</details>
-<details>
-  <summary><b>My projects</b></summary>
-
-<div align="center">
-<a href="https://mantekillah.github.io/palo" target="_blank"><img alt="BLZ-Pages" src="https://img.shields.io/static/v1?label=&message=mantekillah.github.io/palo&color=161b22&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw1AUhU/TakUqHexQxCFDdbIgKuIoVSyChdJWaNXB5KV/0MSQpLg4Cq4FB38Wqw4uzro6uAqC4A+Io5OToouUeF9SaBHjhcf7OO+ew3v3AUKzxlQzMA6ommVkkgkxX1gRg68IIIpe+BCWmKmnsgs5eNbXPfVR3cV5lnffnzWgFE0G+ETiWaYbFvE68fSmpXPeJ46wiqQQnxOPGXRB4keuyy6/cS47LPDMiJHLzBFHiMVyF8tdzCqGSjxFHFNUjfKFvMsK5y3Oaq3O2vfkLwwVteUs12kNI4lFpJCGCBl1VFGDhTjtGikmMnSe8PAPOf40uWRyVcHIMY8NqJAcP/gf/J6tWZqccJNCCaDnxbY/RoDgLtBq2Pb3sW23TgD/M3CldfwbTWDmk/RGR4sdAeFt4OK6o8l7wOUOEH3SJUNyJD8toVQC3s/omwrA4C3Qv+rOrX2O0wcgR7NaugEODoHRMmWveby7r3tu//a05/cDDHJyfkxo5D0AAAAGYktHRAAAAAAAAPlDu38AAAAJcEhZcwAADdcAAA3XAUIom3gAAAAHdElNRQfmBBgGASxDqqqfAAACBUlEQVRIx8WVz0vUQRjG39k6uB2KlW5bhzqZRJcwT2oGaQfRboJEiP9BJSj+MeXZQ0jSxU3wx0FLrwqu9S1I66hBR+XT5Rl5mabdRbJeGN7ZZ57v8777zsw7Zv/TgHZgApgH6sCJRl3YBNB+FuEyMAP8oLkdiVtuVfwasOUEFoFXmv/UQFjN8baAaivi+/pgF+gFLgHfhY0BTzT/pn/ap5Khb6uNyhIzXwYqwieFrTvuhrDn+l0BVoR9ANpyAWZc5lG8BBwIH3DcQZdxcAdiT/h07rTEDe11eLewIpNQobUuh913G18xMytp7bGZXTazWghh1ekMyS9kqvo24VgIYdnMlszsipmN+ADD8nOJyD35WibAonx3gs95zRjglvxaQr4uX2QCFAknWqxAp5lZ3KBjM7vwlxvBSQjhYum8200M8Em+Izgzsx3ht0NiZnZHa9sJHsv90QeIQj1JAvvyNzPJ3Ug40eIx3/YB3siPJuQN+YeZAPHirSf4aKJ5etGOdEn6HN4l7Evmon3W2l2HPRB2GC9arlUUwFVhwTW/Qcd91KRVTOV6URuwKcKK60cvhG06sdjsnjnx1YbNTsSqy7iu3lJWa0at+qnmB1rrd5l/beVNqCqLaO+A2cyD8xJYcrz3TcWTck27jW9kh8DUH8vSJFAFGAde65041tgVNv7bafnX9gsP3RajT3T4QgAAAABJRU5ErkJggg==&style=flat-square" height="25" style="padding-right:10px;"/></a>
-</div>
-</details>
-<details>
   <summary><b>Contact me</b></summary>
 
 <div align="center">
