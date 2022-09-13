@@ -1,9 +1,9 @@
 <p align="right">
-  <a href="https://github.com/mantekillah" target="_blank"><img width="125px" src="./img/palo.png" align="left" alt="BLZ Víctor-Palomares" /></a>
+  <a href="https://github.com/governmundial" target="_blank"><img width="125px" src="./img/palo.png" align="left" alt="Víctor-Palomares" /></a>
 </p>
 
 <div align="center">
-<p><a href="https://github.com/mantekillah" target="_blank"><img src="./img/pikachu_wave.gif" width="75" /></a></p>
+<p><a href="https://github.com/governmundial" target="_blank"><img src="./img/pikachu_wave.gif" width="75" /></a></p>
 <p><b>Hi! Greetings 👋🏼 Nice to meet you!</b></p>
 </div>
 
@@ -19,9 +19,9 @@ I'm `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` guy
 <div align="center">
   <p><b>My GitHub stats</b></p>
 
-[![BLZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mantekillah&hide=prs,contribs&include_all_commits=true&hide_border=false&show_icons=true&icon_color=5edf2b&bg_color=161b22&text_color=5edf2b&border_color=00ff00&cache_seconds=1800&title_color=c6538c&hide_title=true&disable_animations=true)](https://github.com/mantekillah)
+[![governmundial's GitHub Stats](https://github-readme-stats.vercel.app/api?username=governmundial&hide=prs,contribs&include_all_commits=true&hide_border=false&show_icons=true&icon_color=5edf2b&bg_color=161b22&text_color=5edf2b&border_color=00ff00&cache_seconds=1800&title_color=c6538c&hide_title=true&disable_animations=true)](https://github.com/governmundial)
 &nbsp;&nbsp;
-[![BLZ's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantekillah&layout=compact&hide_border=false&langs_count=10&text_color=5edf2b&bg_color=161b22&border_color=00ff00&hide_title=true&disable_animations=true)](https://github.com/mantekillah)
+[![governmundial's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=governmundial&layout=compact&hide_border=false&langs_count=10&text_color=5edf2b&bg_color=161b22&border_color=00ff00&hide_title=true&disable_animations=true)](https://github.com/governmundial)
 
 ---
 
