@@ -40,12 +40,7 @@ I'm `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` guy
 <a href="https://mastodont.cat/@palo" target="_blank"><img alt="BLZ-Masto" src="https://img.shields.io/static/v1?label=&message=mastodont.cat/@palo&logo=Mastodon&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
 <a href="https://www.reddit.com/u/mantekilleur" target="_blank"><img alt="BLZ-Reddit" src="https://img.shields.io/static/v1?label=&message=u/mantekilleur&logo=Reddit&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
-</div>
-</details>
-<details>
-  <summary><b>Contact me</b></summary>
-
-<div align="center">
+&nbsp;&nbsp;
 <a href="https://t.me/palo_senyirauxa" target="_blank"><img alt="BLZ-Telegram" src="https://img.shields.io/static/v1?label=&message=palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/mantekillah" target="_blank"><img alt="BLZ-Discord" src="https://img.shields.io/static/v1?label=&message=mantekillah%239946&logo=Discord&logoColor=5865f2&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
