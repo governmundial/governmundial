@@ -7,7 +7,7 @@
 <p><b>Hi! Greetings 👋🏼 Nice to meet you!</b></p>
 </div>
 
-I'm `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan-Nation Lands` 😎
+Creator of my own destiny. All time Linux user and open-source supporter. I'm `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` guy from the `Catalan-Nation Lands` 😎
 
 <p align="center"><b>lı★ıl</b></p>
   
