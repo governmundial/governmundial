@@ -11,7 +11,7 @@ I'm `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` guy
 
 <p align="center"><b>lı★ıl</b></p>
   
-> I stand up for `Education` (in both ways, `learning`/`teaching`), `Catalonia`, `Arts`, `Technology`, `Privacy` and several more things.
+> I believe in the power of `Education` (in both ways, `learning`&`teaching`). I stand up for `Catalonia`, `Arts`, `Technology`, `Privacy` and several more things.
 > I like to spend time on `gaming stuff`, `music` (especially `Rap`), learning `languages`, following `One Piece` and watching `FCBarcelona` matches and things about `GNU/Linux`, `Pokémon` and the `Wizarding World` ✨
 
 ---
