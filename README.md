@@ -17,9 +17,6 @@ It is `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` g
 
 ---
 
-<details>
-  <summary><b>Connect with me</b></summary>
-
 <div align="center">
 <a href="https://github.com/governmundial" target="_blank"><img alt="governmundial-Github" src="https://img.shields.io/static/v1?label=&message=governmundial&logo=Github&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
