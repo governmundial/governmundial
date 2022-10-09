@@ -33,6 +33,8 @@ It is `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` g
 <a href="https://t.me/palo_senyirauxa" target="_blank"><img alt="governmundial-Telegram" src="https://img.shields.io/static/v1?label=&message=palo_senyirauxa&logo=Telegram&logoColor=26a5e4&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/mantekillah" target="_blank"><img alt="governmundial-Discord" src="https://img.shields.io/static/v1?label=&message=mantekillah%239946&logo=Discord&logoColor=5865f2&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/17.1.92" target="_blank"><img alt="governmundial-Mail" src="https://img.shields.io/static/v1?label=&message=17.1.92&logo=Envelope&logoColor=d90479&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 </div>
 
 ---
