@@ -17,18 +17,8 @@ It is `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` g
 
 ---
 
-<div align="center">
-  <p><b>My GitHub stats</b></p>
-
-[![governmundial's GitHub Stats](https://github-readme-stats.vercel.app/api?username=governmundial&hide=prs,contribs&include_all_commits=true&hide_border=false&show_icons=true&icon_color=5edf2b&bg_color=161b22&text_color=5edf2b&border_color=00ff00&cache_seconds=1800&title_color=c6538c&hide_title=true&disable_animations=true)](https://github.com/governmundial)
-&nbsp;&nbsp;
-[![governmundial's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=governmundial&layout=compact&hide_border=false&langs_count=10&text_color=5edf2b&bg_color=161b22&border_color=00ff00&hide_title=true&disable_animations=true)](https://github.com/governmundial)
-
----
-
-</div>
 <details>
-  <summary><b>My links</b></summary>
+  <summary><b>Connect with me</b></summary>
 
 <div align="center">
 <a href="https://github.com/governmundial" target="_blank"><img alt="governmundial-Github" src="https://img.shields.io/static/v1?label=&message=governmundial&logo=Github&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
@@ -48,3 +38,14 @@ It is `Víctor Palomares` and I like to define myself as an `anarcho-pacifist` g
 <a href="https://github.com/mantekillah" target="_blank"><img alt="governmundial-Discord" src="https://img.shields.io/static/v1?label=&message=mantekillah%239946&logo=Discord&logoColor=5865f2&color=161b22&style=flat-square" height="25" style="padding-right:10px;"/></a>
 </div>
 </details>
+
+---
+
+<div align="center">
+  <p><b>My GitHub stats</b></p>
+
+[![governmundial's GitHub Stats](https://github-readme-stats.vercel.app/api?username=governmundial&hide=prs,contribs&include_all_commits=true&hide_border=false&show_icons=true&icon_color=5edf2b&bg_color=161b22&text_color=5edf2b&border_color=00ff00&cache_seconds=1800&title_color=c6538c&hide_title=true&disable_animations=true)](https://github.com/governmundial)
+&nbsp;&nbsp;
+[![governmundial's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=governmundial&layout=compact&hide_border=false&langs_count=10&text_color=5edf2b&bg_color=161b22&border_color=00ff00&hide_title=true&disable_animations=true)](https://github.com/governmundial)
+
+</div>
